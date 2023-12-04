@@ -6,4 +6,4 @@ The random password generator will provide a random password consisiting of sele
 By simply checking boxes with prompts and using a slider for length you can press the generate password button
 and receive a new password for greater security. 
 
-Link: 
+Link: https://tralston511.github.io/Simple-Random-Password-Generator-/
